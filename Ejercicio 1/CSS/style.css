@@ -1,0 +1,25 @@
+*{
+    margin: 30;
+    font-family: 'bahnschrift';
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    color: gray;
+}
+
+.boton button{
+    background-color: gray; /* Color de fondo gris */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Ajustar el padding para hacer el botón más grande */
+    font-size: 16px; /* Tamaño de la fuente */
+    border: none; /* Eliminar el borde del botón si lo deseas */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+}
+
+
+
