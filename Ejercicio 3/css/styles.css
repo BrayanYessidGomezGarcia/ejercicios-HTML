@@ -1,0 +1,23 @@
+*{
+    margin: 30px;
+    font-family: 'bahnschrift';
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_1{
+    background: rgb(222, 209, 209);
+    height: 400px;
+    width: 700px;
+    padding: 70px;
+}
+.box{
+    display:flex;
+    background: rgb(199, 194, 194);
+    height: 300px;
+    width: 600px;
+    align-items: center;
+    flex-direction: column;
+}
